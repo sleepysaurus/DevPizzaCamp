@@ -86,15 +86,15 @@ ul.nav li a:hover {
 
 #logo {
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 	display: block;
 	background-color: #FF7A00;
 	width: auto;
 }
 
 #logo img {
-	border: 5px solid #47BCB7;
-	padding: 7px;
+	padding: 10px;
+	border: 15px solid #0097B5;
 }
 
 #whole-menu {
